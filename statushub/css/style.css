@@ -1,0 +1,12 @@
+.barcode{
+    height: 50px;
+    width: 100%;
+    background: repeating-linear-gradient(
+        to right,
+        #198754 0px,
+        #198754 2px,
+        transparent 2px,
+        transparent 5px
+    );
+
+}
